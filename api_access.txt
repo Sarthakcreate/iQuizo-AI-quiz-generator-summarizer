@@ -1,0 +1,5 @@
+# importing openai module into your openai environment 
+import openai 
+
+# assigning API KEY to initialize openai environment 
+OpenAI_api_key = 'sk-dxxxxxxxxxxxx2'
