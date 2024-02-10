@@ -10,8 +10,8 @@ Welcome to iQuizo, your ultimate companion for efficient video learning! With iQ
 
 ## Technologies Used
 
-- **Langchain:** We have incorporated Langchain basics, APIs, agents and tools in our model for generation of a summarised content from the video as well as generation of a quiz to assess the understandability of the end user.
--  **Open AI:** We harness the power of Generative AI for video summarization and quiz generation.
+- **Langchain:** We have incorporated Langchain basics, APIs, agents and tools for generation of a summarised content from the youtube URL with generation of a quiz to assess the understandability of the end user.
+-  **Open AI:** We harness the power of Generative AI using open AI APIs.
 - **YouTube API:** The application integrates with the YouTube API to fetch video content.
 - **HTML/CSS/JavaScript:** Frontend development is done using standard web technologies for a responsive and interactive user experience.
 - **Python (Backend):** The backend is built using Flask, a lightweight WSGI web application framework.
